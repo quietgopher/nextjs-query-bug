@@ -1,0 +1,1 @@
+# nextjs-query-bug
